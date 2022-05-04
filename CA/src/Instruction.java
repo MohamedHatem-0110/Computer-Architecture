@@ -10,9 +10,7 @@ public class Instruction {
 		this.type = type;
 }
 
-	public String getOpcode() {
-		return Opcode;
-	}
+
 
 	public void setOpcode(String opcode) {
 		Opcode = opcode;
